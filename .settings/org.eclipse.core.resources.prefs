@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/controller/AccountServlet.java=UTF-8
+encoding//src/main/java/controller/CartServlet.java=UTF-8
+encoding//src/main/java/controller/CategoryServlet.java=UTF-8
+encoding//src/main/java/controller/HomeServlet.java=UTF-8
+encoding//src/main/java/controller/OrderServlet.java=UTF-8
+encoding//src/main/java/controller/ProductServlet.java=UTF-8
+encoding//src/main/java/controller/UserServlet.java=UTF-8
+encoding//src/main/java/filters/Auth.java=UTF-8
